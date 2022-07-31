@@ -1,0 +1,148 @@
+
+
+body {
+
+  font-family: "Helvetica", Arial, sans-serif;
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+
+  }
+
+h1 {
+  font-family: "Audiowide", Arial, sans-serif;
+    font-size: 5.60rem;
+    margin: 0px auto 0px auto;
+    padding-top: 80px;
+
+  }
+
+  .secondline {
+    font-size: 2.2rem;
+  }
+
+span {
+  font-family: "Audiowide", Arial, sans-serif;
+}
+  .topdiv{
+    background-color: #EAF6F6;
+      margin-left: 0px;
+  }
+
+.paragraphs {
+  line-height: 2;
+  width: 650px;
+  margin: auto;
+}
+.profile {
+}
+
+.middilediv {
+    padding: 20px 200px;
+
+  }
+
+  .bottomdiv {
+
+background-color: #66BFBF;
+padding-top: 20px;
+  }
+
+.topcloud{
+  position: absolute;
+  right: 240px;
+}
+.bottomcloud {
+  position: absolute;
+  left: 270px;
+}
+
+
+
+.topdiv {
+
+position: relative;
+padding-top: 100px;
+}
+
+
+.tableskills {
+  align-items: center;
+  margin: auto auto auto 20%;
+  text-align: left;
+}
+
+.skills{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 100%;
+}
+
+.hobbies {
+  text-align: left;
+}
+
+.skillsdesk {
+  width: 25%;
+  length: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.golfcup-img {
+  width: 17%;
+  float: right;
+  margin-left: 30px;
+}
+
+.purpleheading {
+  color: #C400FF;
+}
+
+.copyrite {
+
+  color: #EAF6F6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+.footer-link{
+  padding: 20px 20px;
+}
+
+.BUTTON_CVT {
+   -webkit-border-radius: 160px;
+   -moz-border-radius: 16px;
+   border-radius: 20px;
+   height: 2px;
+   line-height: 4px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 169px;
+   font-size: 18px;
+   font-weight: 500;
+   padding: 20px;
+   background-color: #66BFBF;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 10px;
+}
+
+.BUTTON_CVT:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
